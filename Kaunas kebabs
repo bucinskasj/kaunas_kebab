@@ -1,0 +1,33 @@
+// Find Kaunas kebabs
+%[findKebab]('training': '100')
+    @[kebab type] kebab
+@[kebab type]
+    ~[kebabninn]
+    ~[mrdoner]
+    ~[citykebab]
+    ~[liukskebab]
+    ~[todzeskebab]
+
+~[kebabninn]
+    german
+    sausage
+
+~[mrdoner]
+    food station
+    turkish
+    gigolo
+
+~[citykebab]
+    love
+    city
+
+~[liukskebab]
+    options
+    variety
+    lithuanian
+    central
+
+~[todzeskebab]
+    gangsters
+    all night
+    best kebab
